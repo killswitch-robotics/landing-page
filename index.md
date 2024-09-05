@@ -38,11 +38,10 @@ Hardware module for fail-safe control and emergency stopping. Features:
 - Engineered to prevent AI override or malfunction scenarios (No SkyNet scenarios here!)
 - Upgraded hardware can run local AI supervisory models, enabling continuous monitoring and alerting. 
 
-Hardware designs:
+Terminator POC overview:
 
-![POC Device](assets/images/terminator_poc_device.png)
+[![Killswitch Terminator POC Demo](https://img.youtube.com/vi/Oh63NHZMSlI/0.jpg)](https://youtu.be/Oh63NHZMSlI "Killswitch Termiinator POC Demo")
 
-![Concept 1](assets/images/terminator10.webp)
 
 ---
 
